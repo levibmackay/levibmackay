@@ -95,11 +95,10 @@ Currently building at BYU-Idaho's **Sandbox** startup program
 
 <div align="center">
 
-![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=levibmackay&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
 
 ![Streak stats](https://streak-stats.demolab.com/?user=levibmackay&theme=synthwave&hide_border=true)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levibmackay&layout=compact&theme=synthwave&hide_border=true)
+
 
 </div>
 
