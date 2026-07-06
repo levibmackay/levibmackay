@@ -1,13 +1,21 @@
 <div align="center">
 
-```
-    __              _    __  ___           __
-   / /   ___ _   __(_)  /  |/  /___ ______/ /______ ___  __
-  / /   / _ \ | / / /  / /|_/ / __ `/ ___/ //_/ __ `/ / / /
- / /___/  __/ |/ / /  / /  / / /_/ / /__/ ,< / /_/ / /_/ /
-/_____/\___/|___/_/  /_/  /_/\__,_/\___/_/|_|\__,_/\__, /
-                                                  /____/
-```
+```ansi
+[1;32m██╗     ███████╗██╗   ██╗██╗[0m
+[1;32m██║     ██╔════╝██║   ██║██║[0m
+[1;32m██║     █████╗  ██║   ██║██║[0m
+[1;32m██║     ██╔══╝  ╚██╗ ██╔╝██║[0m
+[1;32m███████╗███████╗ ╚████╔╝ ██║[0m
+[1;32m╚══════╝╚══════╝  ╚═══╝  ╚═╝[0m
+[1;32m                            [0m
+[1;32m███╗   ███╗ █████╗  ██████╗██╗  ██╗ █████╗ ██╗   ██╗[0m
+[1;32m████╗ ████║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗╚██╗ ██╔╝[0m
+[1;32m██╔████╔██║███████║██║     █████╔╝ ███████║ ╚████╔╝ [0m
+[1;32m██║╚██╔╝██║██╔══██║██║     ██╔═██╗ ██╔══██║  ╚██╔╝  [0m
+[1;32m██║ ╚═╝ ██║██║  ██║╚██████╗██║  ██╗██║  ██║   ██║   [0m
+[1;32m╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   [0m
+[1;32m                                                    [0m
+[1;32m[0m```
 
 **Computer Science Student @ BYU-Idaho** · Software Developer · Computer Vision & Data Engineering
 Currently building at BYU-Idaho's **Sandbox** startup program
@@ -19,19 +27,28 @@ Currently building at BYU-Idaho's **Sandbox** startup program
 
 <br>
 
-```
-> whoami
-```
+```ansi
+[1;36mvisitor@github[0m:[1;34m~[0m$ cat ./about_me.txt
 
-```json
-{
-  "name": "Levi Mackay",
-  "role": "CS Student · Software Engineer",
-  "focus": ["computer vision", "data structures", "full-stack", "embedded systems"],
-  "program": "BYU-Idaho Sandbox Startup Program",
-  "status": "actively seeking SWE internships"
-}
-```
+  Name    : [1;32mLevi Mackay[0m
+  Handle  : [36mlevibmackay[0m
+  School  : BYU-Idaho · Computer Science
+  Focus   : [33mSoftware Engineering[0m · Computer Vision · Data Systems
+  Program : [35mBYU-Idaho Sandbox[0m — building a startup
+  Status  : [32m██████████[0m░ learning every day
+  Collab  : [1;32mOPEN[0m — reach out anytime ✅```
+
+<br>
+
+> tech.stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,cs,html,css" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,express,dotnet,opencv,arduino,raspberrypi,git,github,vscode" />
 
 <br>
 
@@ -47,31 +64,6 @@ Currently building at BYU-Idaho's **Sandbox** startup program
   "goal_2026":  "land a software engineering internship"
 }
 ```
-
-<br>
-
-```
-> tech.stack
-```
-
-**Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 <br>
 
@@ -96,21 +88,12 @@ Currently building at BYU-Idaho's **Sandbox** startup program
 <div align="center">
 
 
+
 ![Streak stats](https://streak-stats.demolab.com/?user=levibmackay&theme=synthwave&hide_border=true)
 
 
 
-</div>
-
-<br>
-
-```
-> activity.graph
-```
-
-<div align="center">
-
-![Levi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=levibmackay&theme=react-dark&hide_border=true)
+**Total commits: 2,167** <sub>(includes one high-volume day not reflected above)</sub>
 
 </div>
 
