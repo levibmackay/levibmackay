@@ -21,13 +21,13 @@ Currently building at BYU-Idaho's **Sandbox** startup program
 > tech.stack
 
 **Languages**
-
 <img src="https://skillicons.dev/icons?i=python,js,cs,html,css" />
 
 **Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=react,express,dotnet,opencv,arduino,raspberrypi,git,github,vscode,r,rider,mysql,docker" />
 
-<img src="https://skillicons.dev/icons?i=react,express,dotnet,opencv,arduino,raspberrypi,git,github,vscode" />
-
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
+[![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)](https://tailscale.com)
 <br>
 
 ```
