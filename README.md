@@ -49,14 +49,14 @@ Currently building at BYU-Idaho's **Sandbox** startup program
 > pinned.projects
 ```
 
+
 | Project | Description | Stack |
 |---|---|---|
 | [LaunchLens](https://github.com/levibmackay/LaunchLens) | AI-powered startup idea validator — SWOT, TAM/SAM/SOM, competitor research, validation score | `React` `Express` `Gemini API` |
+| [Lydia](https://github.com/levibmackay/Lydia) | AI-powered Canvas companion that helps students manage assignments, deadlines, and coursework | `React` `Express` `Canvas API` |
+| [NFCCard](https://github.com/levibmackay/NFCCard) | NFC-powered digital business card for instantly sharing my portfolio, projects, resume, and contact information | `HTML` `CSS` `JavaScript` |
 | [SecurityScanner](https://github.com/levibmackay/SecurityScanner) | AI-powered Python security scanner that prioritizes vulnerabilities by severity | `Python` `Gemini API` |
 | [RepoVisualizer](https://github.com/levibmackay/RepoVisualizer) | Recursive C# tool that maps a repo's folder hierarchy and generates a Markdown report | `C#` |
-| [SmartStudyPlanner](https://github.com/levibmackay/SmartStudyPlanner) | C# study planner with scheduling, grade prediction, and calendar integration | `C#` |
-| [AI-Projects](https://github.com/levibmackay/AI-Projects) | Python tools solving academic + dev productivity problems | `Python` |
-
 <br>
 
 ```
