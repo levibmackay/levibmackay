@@ -28,9 +28,11 @@
 ```
 
 **Languages**
+<hr>
 <img src="https://skillicons.dev/icons?i=python,js,cs,html,css" />
 
 **Frameworks & Tools**
+<hr>
 <img src="https://skillicons.dev/icons?i=react,express,dotnet,opencv,arduino,raspberrypi,git,github,vscode,r,rider,mysql,docker" />
 
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
