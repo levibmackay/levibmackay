@@ -38,6 +38,7 @@
 [![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 [![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)](https://tailscale.com)
+[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71)](https://n8n.io)
 
 <br>
 
