@@ -29,7 +29,7 @@
 
 **Languages**
 <hr>
-<img src="https://skillicons.dev/icons?i=python,js,cs,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,cs,swift,html,css" />
 
 **Frameworks & Tools**
 <hr>
