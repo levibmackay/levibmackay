@@ -87,7 +87,7 @@ Local AI coding agent for the terminal — reads and edits code, runs commands, 
 
 <div align="center">
 
-![Streak stats](https://streak-stats.demolab.com/?user=levibmackay&theme=synthwave&hide_border=true)
+![Streak stats](./profile/streak.svg)
 
 </div>
 
@@ -112,4 +112,4 @@ Local AI coding agent for the terminal — reads and edits code, runs commands, 
 
 </div>
 
-_Last updated: 2026-07-16_
+_Last updated: 2026-07-17_
