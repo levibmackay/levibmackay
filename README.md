@@ -17,7 +17,7 @@
 ```
 
 - CS student at BYU-Idaho, building full-time inside the **Sandbox** startup accelerator
-- Ships real things: a 30★ open-source AI coding agent, an AI startup validator, a security scanner — not just class assignments
+- Ships real things: a 34★ open-source AI coding agent, an AI startup validator, a security scanner — not just class assignments
 - Focus areas: AI agents & developer tooling, computer vision, data systems
 - Actively interviewing for **Summer/Fall 2026** software engineering internships
 
