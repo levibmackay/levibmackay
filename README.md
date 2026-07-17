@@ -28,7 +28,8 @@
 ```
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=python,js,cs,html,css" />
+<img src="https://skillicons.dev/icons?
+  i=python,js,cs,html,css" />
 
 **Frameworks & Tools**
 <img src="https://skillicons.dev/icons?i=react,express,dotnet,opencv,arduino,raspberrypi,git,github,vscode,r,rider,mysql,docker" />
