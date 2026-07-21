@@ -115,3 +115,5 @@ Local AI coding agent for the terminal — reads and edits code, runs commands, 
 </div>
 
 _Last updated: 2026-07-17_
+
+_Last reviewed: 2026-07-20 19:33 MDT_
