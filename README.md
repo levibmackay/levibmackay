@@ -76,6 +76,7 @@ Local AI coding agent for the terminal — reads and edits code, runs commands, 
 
 | Project | Description | Stack |
 |---|---|---|
+| [C# DSA Academy](https://github.com/levibmackay/csharp-dsa-academy) | Project-based DSA practice — 12 modules (linked lists, trees, heaps, graphs, DP, and more), each with its own xUnit test suite defining "done" | `C#` `.NET` `xUnit` |
 | [LaunchLens](https://github.com/levibmackay/LaunchLens) | AI-powered startup idea validator — SWOT, TAM/SAM/SOM, competitor research, and a validation score before you spend months building | `React` `Express` `Gemini API` |
 | [SecurityScanner](https://github.com/levibmackay/SecurityScanner) | AI-powered Python security scanner that analyzes source code and prioritizes vulnerabilities by severity | `Python` `Gemini API` |
 | [RepoVisualizer](https://github.com/levibmackay/RepoVisualizer) | Recursive C# tool that maps a repo's folder hierarchy and generates a Markdown report of file types, sizes, and structure | `C#` |
