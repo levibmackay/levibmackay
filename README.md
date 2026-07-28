@@ -79,7 +79,7 @@ Local AI coding agent for the terminal — reads and edits code, runs commands, 
 | [PrecheckAI](https://github.com/levibmackay/PrecheckAI) | A pre-AI checklist gate for coding practice — before you can ask an assistant for help, you have to prove in writing that you actually tried the problem yourself | `HTML` |
 | [SecurityScanner](https://github.com/levibmackay/SecurityScanner) | AI-powered Python security scanner that analyzes source code and prioritizes vulnerabilities by severity | `Python` `Gemini API` |
 | [C# DSA Academy](https://github.com/levibmackay/csharp-dsa-academy) | Project-based DSA practice — 12 modules (linked lists, trees, heaps, graphs, DP, and more), each with its own xUnit test suite defining "done" | `C#` `.NET` `xUnit` |
-| [AI-Projects](https://github.com/levibmackay/AI-Projects) | A collection of AI-powered tools solving real academic and developer productivity problems — code review, course planning, Canvas performance tracking | `Python` |
+| [RepoVisualizer](https://github.com/levibmackay/RepoVisualizer) | Recursive C# tool that analyzes a repo's directory structure and generates a Markdown report of file types, sizes, and largest files | `C#` |
 | [Portfolio](https://github.com/levibmackay/Portfolio) | Personal portfolio repo showcasing projects built throughout my CS degree at BYU-Idaho, plus the source for my portfolio website | `Python` |
 
 <br>
