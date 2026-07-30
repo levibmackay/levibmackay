@@ -60,13 +60,13 @@
 > featured.project
 ```
 
-### [Lydia](https://github.com/levibmackay/lydia-cli)
+### [PreCheck AI](https://github.com/levibmackay/PrecheckAI)
 
-Local AI coding agent for the terminal — reads and edits code, runs commands, drives git, and checks its own work by running tests, all through a local Ollama model. No API keys, no subscriptions, nothing leaves your machine.
+A pre-AI checklist gate for coding practice. Before you ask an assistant for help, you have to prove in writing that you actually tried the problem yourself — complete with live validation, auto-assembled hint prompts, and local streak tracking.
 
-[![Stars](https://img.shields.io/github/stars/levibmackay/lydia-cli?style=flat-square&color=00FF9D&labelColor=000000)](https://github.com/levibmackay/lydia-cli/stargazers)
-[![Tests](https://github.com/levibmackay/lydia-cli/actions/workflows/test.yml/badge.svg)](https://github.com/levibmackay/lydia-cli/actions/workflows/test.yml)
-[![Top language](https://img.shields.io/github/languages/top/levibmackay/lydia-cli?style=flat-square&color=00FF9D&labelColor=000000)](https://github.com/levibmackay/lydia-cli)
+[![Stars](https://img.shields.io/github/stars/levibmackay/PrecheckAI?style=flat-square&color=00FF9D&labelColor=000000)](https://github.com/levibmackay/PrecheckAI/stargazers)
+[![License: MIT](https://img.shields.io/badge/license-MIT-00FF9D?style=flat-square&labelColor=000000)](https://github.com/levibmackay/PrecheckAI/blob/main/LICENSE)
+[![Zero dependencies](https://img.shields.io/badge/dependencies-zero%20install-00FF9D?style=flat-square&labelColor=000000)](https://github.com/levibmackay/PrecheckAI)
 
 <br>
 
@@ -76,11 +76,11 @@ Local AI coding agent for the terminal — reads and edits code, runs commands, 
 
 | Project | Description | Stack |
 |---|---|---|
-| [PrecheckAI](https://github.com/levibmackay/PrecheckAI) | A pre-AI checklist gate for coding practice — before you can ask an assistant for help, you have to prove in writing that you actually tried the problem yourself | `HTML` |
+| [AIR (AI Router)](https://github.com/levibmackay/air) | Load balancer and orchestrator for AI coding agent CLIs — launches, monitors, checkpoints, and auto-switches providers on failure | `Go` `Cobra` `Bubble Tea` |
+| [PrecheckAI](https://github.com/levibmackay/PrecheckAI) | Pre-AI checklist gate for coding practice — forces written problem articulation and hypotheses before unlocking AI hint prompts | `React` `JavaScript` `HTML` |
 | [SecurityScanner](https://github.com/levibmackay/SecurityScanner) | AI-powered Python security scanner that analyzes source code and prioritizes vulnerabilities by severity | `Python` `Gemini API` |
-| [C# DSA Academy](https://github.com/levibmackay/csharp-dsa-academy) | Project-based DSA practice — 12 modules (linked lists, trees, heaps, graphs, DP, and more), each with its own xUnit test suite defining "done" | `C#` `.NET` `xUnit` |
-| [RepoVisualizer](https://github.com/levibmackay/RepoVisualizer) | Recursive C# tool that analyzes a repo's directory structure and generates a Markdown report of file types, sizes, and largest files | `C#` |
-| [Portfolio](https://github.com/levibmackay/Portfolio) | Personal portfolio repo showcasing projects built throughout my CS degree at BYU-Idaho, plus the source for my portfolio website | `Python` |
+| [C# DSA Academy](https://github.com/levibmackay/csharp-dsa-academy) | Project-based DSA practice — 12 modules (linked lists, trees, heaps, graphs, DP, and more), each with its own xUnit test suite | `C#` `.NET` `xUnit` |
+| [Lydia](https://github.com/levibmackay/lydia-cli) | Local AI coding agent CLI for reading and editing code via local Ollama models | `Python` `Ollama` |
 
 <br>
 
