@@ -34,7 +34,7 @@
 
 **Frameworks & Tools**
 <hr>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,postgres,git,github,githubactions,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,dotnet,postgres,git,github,githubactions,vscode,docker,linux" />
 
 [![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=147EFB)](https://developer.apple.com/xcode/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
@@ -76,12 +76,12 @@ A pre-AI checklist gate for coding practice. Before you ask an assistant for hel
 
 | Project | Description | Stack |
 |---|---|---|
-| [Lydia](https://github.com/levimackay/lydia-cli) | Local AI coding agent CLI. Reads, edits and tests code against local Ollama models. No API keys, nothing leaves the machine. 381 tests in CI | `Python` `Ollama` |
-| [AIR (AI Router)](https://github.com/levimackay/air) | Load balancer and orchestrator for AI coding agent CLIs. Launches, monitors, checkpoints, and auto-switches providers on failure | `Go` `Cobra` `Bubble Tea` |
-| [Swift Academy](https://github.com/levimackay/swift-academy) | A 14 chapter Swift curriculum I built for myself. 428 tests written first, every implementation written by hand | `Swift` `SwiftPM` |
-| [daddys-home](https://github.com/levimackay/daddys-home) | One command that tiles my whole workspace across the screen. AppleScript, JXA screen probing, launchd | `Python` `AppleScript` |
+| [AIR (AI Router)](https://github.com/levimackay/air) | Load balancer for AI coding agent CLIs. Picks the best available agent, monitors it, checkpoints progress, and switches providers on failure or rate limit without losing work | `Go` `Cobra` `Bubble Tea` |
+| [Lydia](https://github.com/levimackay/lydia-cli) | Local AI coding agent for the terminal. Reads and edits code, runs commands, and drives git through a local Ollama model. No API keys, nothing leaves the machine | `Python` `Ollama` |
+| [SecurityScanner](https://github.com/levimackay/SecurityScanner) | CLI that scans a source file for vulnerabilities with the Gemini API, then prints findings sorted by severity and color coded in the terminal | `Python` `Gemini API` |
 | [PrecheckAI](https://github.com/levimackay/PrecheckAI) | A gate that makes you write down what you tried before an AI will help. One HTML file, zero dependencies | `JavaScript` `HTML` |
-| [Microplastics in Remote Streams](https://github.com/levimackay/microplastics-idaho) | Field study site for a BYU-Idaho Chem 490R project, built from the team's own sampling data | `JavaScript` `Leaflet` |
+| [C# DSA Academy](https://github.com/levimackay/csharp-dsa-academy) | Data structures and algorithms in C#. 12 offline first .NET modules, each a stub plus an xUnit suite that defines done, worked through module by module | `C#` `.NET` `xUnit` |
+| [Swift Academy](https://github.com/levimackay/swift-academy) | A 14 chapter Swift curriculum I built for myself. Every exercise ships as a stub plus a failing test, and I type every line | `Swift` `SwiftPM` |
 
 <br>
 
@@ -117,7 +117,7 @@ A pre-AI checklist gate for coding practice. Before you ask an assistant for hel
 </div>
 
 ---
-**Last updated:** 2026-08-05 09:25 PDT
+**Last updated:** 2026-08-05 14:21 PDT
 
 ---
 
