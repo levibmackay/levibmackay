@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=00FF9D&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+BYU-Idaho+CS;AI+Agent+%26+Developer+Tool+Builder;Computer+Vision+%26+Data+Systems;Open+to+SWE+Internships+%E2%80%94+2026" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff9d)](https://levimackay.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff9d)](https://levimackay.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/levi-mackay-217380396/)
-[![Lydia stars](https://img.shields.io/github/stars/levibmackay/lydia-cli?style=for-the-badge&label=lydia-cli&color=000000&labelColor=000000&logo=github&logoColor=00ff9d)](https://github.com/levimackay/lydia-cli)
+[![Lydia stars](https://img.shields.io/github/stars/levimackay/lydia-cli?style=for-the-badge&label=lydia-cli&color=000000&labelColor=000000&logo=github&logoColor=00ff9d)](https://github.com/levimackay/lydia-cli)
 
 </div>
 
@@ -64,7 +64,7 @@
 
 A pre-AI checklist gate for coding practice. Before you ask an assistant for help, you have to prove in writing that you actually tried the problem yourself — complete with live validation, auto-assembled hint prompts, and local streak tracking.
 
-[![Stars](https://img.shields.io/github/stars/levibmackay/PrecheckAI?style=flat-square&color=00FF9D&labelColor=000000)](https://github.com/levimackay/PrecheckAI/stargazers)
+[![Stars](https://img.shields.io/github/stars/levimackay/PrecheckAI?style=flat-square&color=00FF9D&labelColor=000000)](https://github.com/levimackay/PrecheckAI/stargazers)
 [![License: MIT](https://img.shields.io/badge/license-MIT-00FF9D?style=flat-square&labelColor=000000)](https://github.com/levimackay/PrecheckAI/blob/main/LICENSE)
 [![Zero dependencies](https://img.shields.io/badge/dependencies-zero%20install-00FF9D?style=flat-square&labelColor=000000)](https://github.com/levimackay/PrecheckAI)
 
@@ -104,7 +104,7 @@ A pre-AI checklist gate for coding practice. Before you ask an assistant for hel
 {
   "github":    "github.com/levimackay",
   "linkedin":  "linkedin.com/in/levi-mackay-217380396",
-  "portfolio": "levimackay.github.io/Portfolio",
+  "portfolio": "levimackay.com",
   "status":    "open to SWE internships"
 }
 ```
