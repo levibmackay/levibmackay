@@ -117,7 +117,7 @@ A pre-AI checklist gate for coding practice. Before you ask an assistant for hel
 </div>
 
 ---
-**Last updated:** 2026-08-05 14:21 PDT
+**Last updated:** 2026-08-05 19:46 PDT
 
 ---
 
